@@ -35,12 +35,6 @@ You can also attempt to **flee** from a fight, though success is never guarantee
 - **`friend` functions:** `attackMonster` / `attackPlayer` for combat logic
 - **Static data:** monster stats stored in a static `MonsterData` array
 
-## 📂 Project Structure
-```
-monster-fighter/
-└── monster-fighter.cpp    # Full game logic
-```
-
 ## 📋 Example Usage
 ```
 Enter your name: Alex
